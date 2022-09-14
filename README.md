@@ -1,2 +1,2 @@
 # PortfolioFrontend
-repositorio para el frontend
+Repositorio para el FrontEnd
