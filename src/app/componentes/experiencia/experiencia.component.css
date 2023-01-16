@@ -1,0 +1,21 @@
+/*Contenedor Experiencia*/
+.container {
+    color: aliceblue;
+    background-color: #717187;
+    border-radius: 1rem;
+    margin-bottom: .5rem;
+}
+
+/*Título experiencia */
+h3 {
+    margin: 20px 0 20px 15px;
+}
+
+#exp {
+    font-weight: bold;
+}
+
+img {
+    margin-left: 10px;
+    width: 2.5rem;
+}

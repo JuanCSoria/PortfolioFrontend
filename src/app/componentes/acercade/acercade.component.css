@@ -1,0 +1,40 @@
+.row{
+    width: 100%;
+    margin-bottom: 1.5rem;
+   }
+   
+img{
+    box-shadow: 5px 5px 10px rgb(34, 33, 33);
+    width: 8rem;
+    margin-top: -6rem;
+    }
+
+#nombre{
+    width: fit-content;
+    margin: auto;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    border-radius: .5rem;
+   
+}
+.acercademi{
+            color: aliceblue;
+            margin-top: -3rem;
+            border-radius: 1rem;
+            background-color: #717187;
+              
+}
+.acercademi h6{
+    margin-top: 1.5rem;
+    font-weight: 600;
+
+}
+
+.epigrafe{
+    color: aliceblue;
+    border-radius: .5rem;
+    background-color: #717187;
+    box-shadow: 5px 5px 10px black;
+       
+
+}
